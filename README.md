@@ -1,4 +1,5 @@
-Hi,
-🔭 I’m currently working on Reactjs projects
+﻿Hi,
+🔭 I’m currently working on Reactjs projects.
+bye :)
 
 
